@@ -1,0 +1,314 @@
+
+
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/bbb17.png" group-title="REALITY",BBB 17
+http://stmv1.srvstm.com/deivison7510/deivison7510/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/bbb17.png" group-title="REALITY",BBB 17 - CAM 1
+http://95.211.149.215:8081/look/bbb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO",GLOBO
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/2.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetv.png" group-title="CANAL ABERTO",REDETV HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvitarare.png" group-title="CANAL ABERTO", TV CULTURA HD
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/1.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/3.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO", RECORD
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/6.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL ABERTO", BAND
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/5.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/mixtv.png" group-title="MUSICA", MIX TV BRASIL
+http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvdiario.png" group-title="CANAL ABERTO", TV DIÁRIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvuniao.png" group-title="CANAL ABERTO", TV UNIÃO
+http://38.96.175.108:1935/tvuniao/tvuniao/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/fishtv.png" group-title="VARIEDADES", FISH TV
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/110.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="JORNALISMO", GLOBO NEWS
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/68.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="JORNALISMO", BAND NEWS
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/70.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="JORNALISMO", RECORD NEWS HD
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/69.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="ESPORTES", SPORTV
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/55.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv2.png" group-title="ESPORTES", SPORTV 2
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/56.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="ESPORTES", PREMIERE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/71.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="ESPORTES", PREMIERE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/72.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="ESPORTES", PREMIERE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/73.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="ESPORTES", PREMIERE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/74.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="ESPORTES", PREMIERE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/75.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="ESPORTES", PREMIERE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/76.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="ESPORTES", PREMIERE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/77.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="ESPORTES", PREMIERE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/78.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="ESPORTES", PREMIERE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/79.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="ESPORTES", ESPN BRASIL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/61.ts
+
+#EXTINF:-1 tvg-logo="https://lut.im/dI7Ylom0As/bCAMFDZriC0DMWWJ.png" group-title="ESPORTES", ESPN
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/59.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/combate.png" group-title="ESPORTES", COMBATE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/80.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX SPORTS HD
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/63.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX SPORTS 2 HD
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/64.ts
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vtqpfqvt/esporte_interativo.png" group-title="ESPORTES", ESPORTE INTERATIVO
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/65.ts
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="ESPORTES", EI MAX HD
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/66.ts
+
+#EXTINF:-1 tvg-logo="https://lut.im/p0RGuT3bKK/rvNms9eI2UOqtge8.png" group-title="FILMES", TELECINE PIPOCA
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/11.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/trutv.png" group-title="VARIEDADES", TRUTV
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/100.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/h2.png" group-title="DOCUMENTARIOS", H2
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/53.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/discoverychannel.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL HD
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/46.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/animal.png" group-title="DOCUMENTARIOS", ANIMAL PLANET HD
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/51.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/animal.png" group-title="DOCUMENTARIOS", NATIONAL GEOGRAPHIC
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/45.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/animal.png" group-title="DOCUMENTARIOS", DISCOVERY INVESTIGATION
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/47.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/animal.png" group-title="DOCUMENTARIOS", DISCOVERY HOME & HEALTH
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/48.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/animal.png" group-title="DOCUMENTARIOS", DISCOVERY TURBO
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/49.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/animal.png" group-title="DOCUMENTARIOS", DISCOVERY CIVILIZATION
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/50.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/animal.png" group-title="DOCUMENTARIOS", HISTORY CHANNEL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/52.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/animal.png" group-title="DOCUMENTARIOS", DISCOVERY SCIENCE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/54.ts
+
+#EXTINF:-1 tvg-logo="http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png" group-title="CANAL ABERTO", FUTURA
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/7.ts
+
+#EXTINF:-1 tvg-logo="http://tudotv.tv/fotos/efcea727d37ed2a49bff35a79fb91a25.png" group-title="FILMES", TELECINE PREMIUM
+http://zip.net/bhtGtM
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="FILMES", TELECINE ACTION
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/9.ts
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="FILMES", TELECINE FUN
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/10.ts
+
+#EXTINF:-1 tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcpipocab.png" group-title="FILMES", TELECINE PIPOCA
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/11.ts
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="FILMES", TELECINE TOUCH
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/12.ts
+
+#EXTINF:-1 tvg-logo="https://yippekyyay.files.wordpress.com/2010/12/telecine_cult2.png" group-title="FILMES", TELECINE CULT
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/13.ts
+
+#EXTINF:-1 tvg-logo="http://recantoadormecido.com.br/wp-content/uploads/2016/11/HBO_logo.png" group-title="FILMES", HBO
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/14.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/250px-HBO2_logo.png" group-title="FILMES", HBO2
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/15.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="FILMES", HBO SIGNATURE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/16.ts
+
+#EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Family.png" group-title="FILMES", HBO FAMILY
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/17.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", HBO PLUS
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/18.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", MEGAPIX
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/19.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", FOX
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/20.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", SPACE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/21.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", UNIVERSAL CHANNEL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/22.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", MAX
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/23.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", MAX PRIME
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/24.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", MAX UP
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/25.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", WARNER CHANNEL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/26.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", FX
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/27.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", SONY
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/28.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", AXN
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/29.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", TNT
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/30.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", CINEMAX
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/31.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", STUDIO UNIVERSAL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/32.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", PARAMOUNT CHANNEL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/34.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", TNT SERIES
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/101.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="FILMES", SYFY
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/102.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="ANIMACAO", GLOOB
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/81.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="ANIMACAO", CARTOON NETWORK
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/82.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="ANIMACAO", NICKELODEON
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/83.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="ANIMACAO", DISNEY JR.
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/84.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="ANIMACAO", DISNEY XD
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/85.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="ANIMACAO", DISNEY CHANNEL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/86.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="ANIMACAO", NICK JR.
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/87.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="ANIMACAO", DISCOVERY KIDS
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/88.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="ANIMACAO", BOOMERANG
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/89.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="ANIMACAO", TOONCAST
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/97.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="MUSICA", BIS HD
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/37.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="MUSICA", MTV BRASIL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/38.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="MUSICA", MULTISHOW
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/39.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="MUSICA", VH1 MEGA HITS
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/98.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="MUSICA", PRIME BOX BRASIL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/104.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="MUSICA", MUSIC BOX BRASIL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/106.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", TBS
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/33.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", TCM
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/35.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", VIVA
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/36.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", GNT
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/40.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", A&E
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/41.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", E!
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/42.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", FOX LIFE
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/43.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", TLC
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/44.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", TRUTV
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/100.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", +GLOBOSAT
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/108.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", ISAT
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/109.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", COMEDY CENTRAL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/111.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", CANAL BRASIL
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/112.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/HBO-Plus.png" group-title="VARIEDADES", ARTE1
+http://192.99.148.73:8080/live/virginiaslemaman/vs85458/113.ts
